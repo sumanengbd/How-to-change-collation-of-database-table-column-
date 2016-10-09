@@ -1,0 +1,1 @@
+# How-to-change-collation-of-database-table-column-
